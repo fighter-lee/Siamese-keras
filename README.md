@@ -10,6 +10,10 @@
 6. [训练步骤 How2train](#训练步骤)
 7. [参考资料 Reference](#Reference)
 
+## 环境搭建
+TensorFlow最新安装：https://blog.csdn.net/qq_43412643/article/details/135019160
+
+
 ## Top News
 **`2022-04`**:**进行了大幅度的更新，支持step、cos学习率下降法、支持adam、sgd优化器选择、支持学习率根据batch_size自适应调整。**  
 BiliBili视频中的原仓库地址为：https://github.com/bubbliiiing/siamese-keras/tree/bilibili
